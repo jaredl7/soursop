@@ -12,3 +12,4 @@ threadpoolctl
 pandas
 scipy
 matplotlib
+seaborn
